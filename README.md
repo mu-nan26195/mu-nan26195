@@ -23,17 +23,17 @@
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mu-nan26195&show_icons=true&theme=radical&count_private=true&locale=cn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark&hide=procfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-nan26195&layout=compact&theme=vision-friendly-dark&hide=procfile&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ## 🌟 Featured Projects
 
 <!-- Replace with your actual project links -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=dark)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=dark)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-nan26195&repo=smart-counselor&theme=dark&locale=cn)](https://github.com/mu-nan26195/smart-counselor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-nan26195&repo=Kun-vs-Ma-Bao-guo&theme=dark&locale=cn)](https://github.com/mu-nan26195/Kun-vs-Ma-Bao-guo)
 
 ## 🤝 Let's Connect
 
