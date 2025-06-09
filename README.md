@@ -38,19 +38,19 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/%E6%9A%AE%E6%A5%A0-%E7%8E%8B-5145a636a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
+  <a href="https://x.com/munan54188">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:2752478897@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> 
+  <img src="https://komarev.com/ghpvc/?username=mu-nan26195&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> 
 </p>
 <!---
 mu-nan26195/mu-nan26195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
